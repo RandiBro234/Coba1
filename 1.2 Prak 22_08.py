@@ -7,3 +7,4 @@ def kali():
         kosong.append(hasil_kali)
 kali()
 print(kosong)
+print("aku ganteng")
