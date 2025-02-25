@@ -8,3 +8,4 @@ def kali():
 kali()
 print(kosong)
 print("aku ganteng")
+print("Aku Pinter")
